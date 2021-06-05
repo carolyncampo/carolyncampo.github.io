@@ -16,7 +16,7 @@ a:hover {text-decoration:none;}
 .sticky .logo img{ width:110px !important;}
 .sticky .nav{ padding:17px 0;}
 
-.main_content{ background-color:#fff; margin-top:190px; padding:75px;}
+.main_content{ background-color:#fff; margin-top:110px; padding:75px;}
 #menu-content{margin-top:105px;}
 .logo{ padding:10px 0;}
 .nav{ background-color:#7c4444;padding:10px 0;}
@@ -151,7 +151,7 @@ a:hover.instagram{ opacity:.6;}
 .cont_blk { padding:30px 20px;} 
 .overlay h2 { font-size:40px; margin-top:150px;}
 #subMenu ul li a{ margin-bottom:10px;}
-.main_content{margin-top:160px;padding:60px 30px 150px 30px;}
+.main_content{margin-top:125px;padding:60px 30px 150px 30px;}
 }
 
 @media only screen and (min-width:600px) and (max-width:650px) {
