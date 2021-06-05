@@ -108,7 +108,7 @@ a:hover.instagram{ opacity:.6;}
 
 .overlay h2 {font-size:60px;margin-top:200px;}
 #subMenu ul li a {padding: 15px 11px 0;}
-#menu-content {margin-top:170px;}
+#menu-content {margin-top:105px;}
 }
 
 @media only screen and (min-width:992px) and (max-width:1070px) {	
@@ -127,7 +127,7 @@ a:hover.instagram{ opacity:.6;}
 .main_content{ padding:75px;}
 .overlay h2 { font-size:45px; margin-top:150px;}
 #subMenu ul li a{ margin-bottom:10px;}
-#menu-content {margin-top: 180px;}
+#menu-content {margin-top: 105px;}
 }
 
 @media only screen and (min-width:768px) and (max-width:800px) {
@@ -137,8 +137,8 @@ a:hover.instagram{ opacity:.6;}
 @media only screen and (max-width:767px) {
 .container{ width:100%;max-width:100%;}
 .header {width:96% !important;}	
-#menu-content { margin-top:140px;}
-.logo{ padding:20px 0;}
+#menu-content { margin-top:105px;}
+.logo{ padding:10px 0;}
 .about_blk h2 {font-size:35px; margin:30px 0px;}
 .nav ul li:last-child:hover ul{ width:125px; margin-left:-80px;}
 .slider_outer{ padding:20px;}	
