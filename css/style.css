@@ -12,10 +12,6 @@ a:hover {text-decoration:none;}
 
 .header {position: fixed; top: 0; left: auto; background-color:#ffffff; z-index: 999;}
 
-.sticky .logo{ padding:15px 0;}
-.sticky .logo img{ width:110px !important;}
-.sticky .nav{ padding:17px 0;}
-
 .main_content{ background-color:#fff; margin-top:110px; padding:75px;}
 #menu-content{margin-top:105px;}
 .logo{ padding:10px 0;}
